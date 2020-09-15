@@ -1,4 +1,4 @@
-# GIt brances
+# GIT brances
 
 -listing all brances
 
