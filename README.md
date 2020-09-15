@@ -2,6 +2,8 @@
 
 -listing all branches
 
+--adding of branch
+
 - changing branches
 
 - merging a branch
