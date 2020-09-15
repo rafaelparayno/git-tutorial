@@ -1,8 +1,8 @@
-# GIT brances
+# GIT branches
 
--listing all brances
+-listing all branches
 
-- changing brances
+- changing branches
 
 - merging a branch
 
